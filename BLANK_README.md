@@ -29,7 +29,9 @@
 
 
 
+<!--THis is header page containing the Logo of our Impressive readme template -->
 <!-- PROJECT LOGO -->
+
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
